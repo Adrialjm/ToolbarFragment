@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToolbarFragment3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_izquierda">Izquierda</string>
+    <string name="action_derecha">Derecha</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_perfil">Perfil</string>
+    <string-array name="spinner_list">
+        <item>Alfa</item>
+        <item>Beta</item>
+        <item>Gamma</item>
+        <item>Delta</item>
+        <item>Épsilon</item>
+        <item>Eta</item>
+        <item>Zeta</item>
+    </string-array>
+</resources>

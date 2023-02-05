@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <!-- Estoy combinando temas, el de arriba es el base + oscuro y  el de abajo es para los popups blancos-->
+
+</resources>
